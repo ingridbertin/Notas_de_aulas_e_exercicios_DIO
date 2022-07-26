@@ -1,2 +1,2 @@
-# Notas_de_aulas_e_exercicios_DIO
-Este repositório contém anotações de tópicos pertinentes das aulas e exercícios da DIO
+# Exemplos DIO :computer:
+Este repositório contém os exemplos usados nas aulas dos cursos da DIO. 
